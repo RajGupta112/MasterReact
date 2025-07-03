@@ -14,7 +14,7 @@ display: flex;
 }
 .productcard{
   margin-top: 20px;
-  display: flex;
+  display: flex-wrap;
   padding: 5px;
  
 }

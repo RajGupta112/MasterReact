@@ -15,7 +15,7 @@ const productList = [
     size: "L",
     color: "Black",
     in_stock: true,
-    image: "https://images.unsplash.com/photo-1618354691373-759c317ca53a?auto=format&fit=crop&w=500&q=60"
+    image: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgjLyAcR_7SDo6wBcaC4CQPeCX-gUGnFPNtJktMUmwSw6TEV4aZQweLJMTA-XCnwJlzhkUstgl3zemDrSdBhqUa9MFFWnH-QQIP0nlH2ujTomQVerVJheOftxP4IsBvqou83rnYQ&usqp=CAc"
   },
   {
     name: "Striped Casual Tee",
@@ -24,7 +24,7 @@ const productList = [
     size: "S",
     color: "Blue/White",
     in_stock: false,
-    image: "https://images.unsplash.com/photo-1618354691556-1860193e862e?auto=format&fit=crop&w=500&q=60"
+    image: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSr57gmqTzYosxgHjs42f8Nc9ZE04WMHDe4wdqtvUATJ-Gp0V_j599tX92qUq8U97FhwWsFmSS8aS_hnQ_2nT-1q1CVm_fVHbkDl93_kvAoqs_uvtVd3oafrg"
   },
   {
     name: "V-Neck Cotton T-Shirt",
@@ -33,7 +33,7 @@ const productList = [
     size: "XL",
     color: "Gray",
     in_stock: true,
-    image: "https://images.unsplash.com/photo-1602810318383-8ffb58d05a5e?auto=format&fit=crop&w=500&q=60"
+    image: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTgGvx5d9HmNc654zdtWSwnv8aEU8aNFvh08C_MgDh_L7JP_ZU9p7EY4lSPHdmNzu_Cv75jsn9gpcPjVc2K6A1k1H5ROQlNvzbqqFx4iad3QAWXOjH2kH0xig"
   },
   {
     name: "Athletic Fit Tee",
@@ -42,7 +42,7 @@ const productList = [
     size: "M",
     color: "Red",
     in_stock: true,
-    image: "https://images.unsplash.com/photo-1593032465171-bfd55f7c07aa?auto=format&fit=crop&w=500&q=60"
+    image: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQSR2B0CL5Cqyaegv33xx_JuUTzBStRrPzJg3XpLF6XtlpWg1PeqgYgF2paFUS4I9ylwUKGgcX6mwrav_TX4MuhjeN9rNlQQ0v4LHFLHwDgyEUqhcmDUIHv"
   },
   {
     name: "Organic Cotton T-Shirt",
@@ -51,7 +51,7 @@ const productList = [
     size: "L",
     color: "Olive",
     in_stock: false,
-    image: "https://images.unsplash.com/photo-1600180758890-3c541f0fdb16?auto=format&fit=crop&w=500&q=60"
+    image: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRePOEKnqbgTiD5VME7VWie-nt8blFGSOZZ-uKxEXAV66RB8i85v8IrOTChMgpRmMkq6z-N5wrt6vUUSehKeIrI2OJ2SaxoJwPob0KzXlS9nT4Cj5s-yw5V"
   },
   {
     name: "Long Sleeve T-Shirt",
@@ -60,7 +60,7 @@ const productList = [
     size: "M",
     color: "Navy",
     in_stock: true,
-    image: "https://images.unsplash.com/photo-1605733160314-4fc7dac4f38b?auto=format&fit=crop&w=500&q=60"
+    image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTvssJuTI5FP5U_mOGQuOKOWBw37Dl2KTw-9o9pg_dz7omiv9W-wr2ULDO3HTzLkwerFIDcuEmzIy4PTqsOwPmxFf0hU17sIJgJUq9vy2M3pq-426LrZkBh"
   }
 ];
 
