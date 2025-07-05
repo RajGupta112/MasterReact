@@ -4,15 +4,17 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './components/Navbar'
 import ProductCard from './components/ProductCard'
+import {createBrowserRouter, Outlet} from "react-router-dom";
+import Kid from './components/Kid'
+import Men from './components/Men'
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  
   return (
     <>
       <div>
         <Navbar/>
-        <ProductCard/>
+       <Outlet/>
       </div>
       
     </>

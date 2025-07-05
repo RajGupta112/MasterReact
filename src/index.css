@@ -25,3 +25,13 @@ left:auto
 .product > .poductimg{
   width: 100px;
 }
+.skelton-container{
+  display: flex;
+
+}
+.skelton{
+  width: 200px;
+  height: 400px;
+  margin: 10px;
+  background-color: gray;
+}
