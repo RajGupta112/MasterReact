@@ -14,3 +14,15 @@ const Prodeucts = (props) => {
 };
 
 export default Prodeucts;
+
+
+ export const HOF =  (Prodeucts) =>{
+  return(props)=>{
+return(
+  <div>
+    <span>Best Seller</span>
+<Prodeucts {...props}/>
+  </div>
+)
+}
+}

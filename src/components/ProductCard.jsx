@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 import productList from './productlist';
-import Prodeucts from './Prodeucts';
+import Prodeucts, { HOF } from './Prodeucts';
 import Skelton from './Skelton';
 import { Link } from 'react-router-dom';
 
@@ -21,6 +21,8 @@ const fetchData= async()=>{
 const filterdata=listofProduct.filter((product)=>{
   return product.price.toString().includes(search);
 })
+
+const HOFComponenet= HOF(Prodeucts);
 
 
   return listofProduct.length===0 ? <Skelton/> : (
@@ -43,3 +45,4 @@ const filterdata=listofProduct.filter((product)=>{
 };
 
 export default ProductCard;
+

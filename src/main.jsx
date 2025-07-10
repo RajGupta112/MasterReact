@@ -8,6 +8,7 @@ import Men from './components/Men.jsx'
 import ProductCard from './components/ProductCard.jsx'
 import ProductDetails from './components/ProductDetails.jsx'
 import About from './components/About.jsx'
+import Grocery from './components/Grocery.jsx'
 
 const appRouter=createBrowserRouter([
   {
@@ -33,6 +34,10 @@ const appRouter=createBrowserRouter([
   {
     path:"/about",
     element:<About/>
+  },
+    {
+    path:"/grocery",
+    element:<Grocery/>
   },
     ]
   }

@@ -6,9 +6,14 @@ class ProfileClass extends React.Component {
    this.state={
     count:0
    }
+   console.log("ctr is called;");
+  }
+  componentDidMount(){
+    console.log('componenetdigmountis called');
   }
 
   render() {
+    console.log("render is called");
     return (
       <div>
         <h1>{this.props.name}</h1>
