@@ -9,6 +9,7 @@ const Prodeucts = (props) => {
       <h2>{name}</h2>
       <p><strong>Brand:</strong> {brand}</p>
       <p><strong>Price:</strong> {price.toFixed(2)}</p>
+     
     </div>
   );
 };
